@@ -2,7 +2,7 @@ const speakeasy = require("speakeasy");
 const qrcode = require("qrcode");
 
 var code = speakeasy.generateSecret({
-  name: "wearedev",
+  name: "Vasu",
 });
 
 console.log(code);
